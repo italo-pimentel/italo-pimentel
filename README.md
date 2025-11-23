@@ -42,6 +42,11 @@ Contatos
   <a href="https://www.linkedin.com/in/%C3%ADtalo-pimentel-10765717b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
+
 <div align="center">
-  <img src="https://github.com/italo-ph/italo-ph/blame/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italo-ph/italo-ph/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italo-ph/italo-ph/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/italo-ph/italo-ph/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
